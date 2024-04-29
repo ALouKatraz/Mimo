@@ -1,6 +1,6 @@
 .grid-container{
     display: grid;
-    grid-template-columns: 50px 50px 120px;
+    grid-template-columns: 50px auto auto;
     background-color: #E0F6FF;
     border: 1ps dashed #1E96FF;
 }
