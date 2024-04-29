@@ -1,7 +1,7 @@
 .grid-container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 10% 30% 60%;
+    grid-template-rows: auto 30% 60%;
     background-color: #E0F6FF;
     border: 1ps dashed #1E96FF;
     height: 300px;
