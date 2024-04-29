@@ -3,6 +3,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 3fr);
     row-gap: 10px;
+    column-gap: 10px;
     background-color: #E0F6FF;
     border: 1ps dashed #1E96FF;
     height: 300px;
