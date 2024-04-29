@@ -6,7 +6,9 @@
     background-color: #E0F6FF;
     border: 1px dashed #1E96FF;
     height: 600px;
-    grid-template-areas: ". item5";
+    grid-template-areas: 
+        "item1 item1"
+        ". item5";
 }
 
 .grid-item{
@@ -18,6 +20,7 @@
 
 .item1{
     grid-column: span 2;
+    grid-area: item1;
 }
 
 .item2{
