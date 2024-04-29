@@ -1,6 +1,7 @@
 .grid-container{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 50px 80px 100px;
     background-color: #E0F6FF;
     border: 1ps dashed #1E96FF;
 }
